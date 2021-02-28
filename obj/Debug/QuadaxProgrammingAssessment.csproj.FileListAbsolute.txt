@@ -1,0 +1,7 @@
+C:\Users\kushp\source\repos\QuadaxProgrammingAssessment\QuadaxProgrammingAssessment\bin\Debug\QuadaxProgrammingAssessment.exe.config
+C:\Users\kushp\source\repos\QuadaxProgrammingAssessment\QuadaxProgrammingAssessment\bin\Debug\QuadaxProgrammingAssessment.exe
+C:\Users\kushp\source\repos\QuadaxProgrammingAssessment\QuadaxProgrammingAssessment\bin\Debug\QuadaxProgrammingAssessment.pdb
+C:\Users\kushp\source\repos\QuadaxProgrammingAssessment\QuadaxProgrammingAssessment\obj\Debug\QuadaxProgrammingAssessment.csprojAssemblyReference.cache
+C:\Users\kushp\source\repos\QuadaxProgrammingAssessment\QuadaxProgrammingAssessment\obj\Debug\QuadaxProgrammingAssessment.csproj.CoreCompileInputs.cache
+C:\Users\kushp\source\repos\QuadaxProgrammingAssessment\QuadaxProgrammingAssessment\obj\Debug\QuadaxProgrammingAssessment.exe
+C:\Users\kushp\source\repos\QuadaxProgrammingAssessment\QuadaxProgrammingAssessment\obj\Debug\QuadaxProgrammingAssessment.pdb
